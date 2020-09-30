@@ -1,0 +1,34 @@
+/* 
+  Localizable.strings
+  BeerApp
+
+  Created by Alexander Karaatanasov on 30.09.20.
+  Copyright © 2020 Alexander Karaatanasov. All rights reserved.
+*/
+
+/* Beer type string */
+"BeerListViewModel.BeerTypeDisplay" = "type: %@";
+
+/* Beer type string */
+"BeerDetailViewModel.BeerTypeDisplay" = "type: %@";
+
+/* Beers List title */
+"BeerListViewController.Title" = "Beers List";
+
+/* Details title */
+"BeerDetailViewController.Title" = "Details";
+
+/* Create a new beer title */
+"BeerCreateViewController.Title" = "Create a new beer";
+
+/* Beer name placeholder */
+"BeerCreateViewController.BeerName.Placeholder" = "Beer name";
+
+/* Beer type placeholer */
+"BeerCreateViewController.BeerType.Placeholder" = "Beer type";
+
+/* Beer description placeholder */
+"BeerCreateViewController.BeerDescription.Placeholder" = "Beer description";
+
+/* Beer creation button title */
+"BeerCreateViewController.Create.ButtonTitle" = "Create a beer";
